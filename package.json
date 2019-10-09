@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fuzzy-toolbox": "file:../fuzzy-toolbox"
+    "fuzzy-toolbox": "github:valenvb/fuzzy-toolbox"
   }
 }
